@@ -1,0 +1,4 @@
+https://webapps.stackexchange.com/questions/90632/is-there-a-way-to-get-frozen-rows-in-an-embedded-google-sheet
+
+https://github.com/tifv/gs-scroller/
+
